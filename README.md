@@ -1,6 +1,6 @@
 # Sorting Algorithm Visualizer
 
-![Project Logo](./images/project-logo.png)
+![Project Logo](res/project-logo.jpeg)
 
 ## Table of Contents
 
@@ -43,7 +43,7 @@ The Sorting Algorithm Visualizer is a Python-based project that provides an inte
 
 1. Run the sorting algorithm visualizer:
 
- - python main.py
+      python main.py
 
 2. Select a sorting algorithm from the menu.
 
