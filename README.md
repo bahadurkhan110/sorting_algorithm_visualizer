@@ -1,6 +1,6 @@
 # Sorting Algorithm Visualizer
 
-![Project Logo](res/project-logo.png)
+![Project Logo](res/project_logo.png)
 
 ## Table of Contents
 
