@@ -1,4 +1,4 @@
-#Sorting Algorithm Visualizer - Python
+# Sorting Algorithm Visualizer - Python
 
 ![Project Logo](res/project_logo.PNG)
 
